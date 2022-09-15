@@ -1,3 +1,7 @@
 target:
     string:
         target: nihao
+
+
+monitor:
+    path: monitorttest
